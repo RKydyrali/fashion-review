@@ -1,0 +1,25 @@
+# Root
+.DS_Store
+Thumbs.db
+
+# Frontend
+frontend/node_modules/
+frontend/.expo/
+frontend/dist/
+frontend/.env
+
+# Secondary frontend MVP
+frontend-tryon-mvp/node_modules/
+frontend-tryon-mvp/.expo/
+frontend-tryon-mvp/dist/
+frontend-tryon-mvp/.env
+frontend-tryon-mvp/.env.local
+
+# Backend
+backend/.env
+backend/.pytest_cache/
+backend/__pycache__/
+backend/**/*.pyc
+backend/fashion.db
+backend/media/
+backend/tmp_media_dbg/

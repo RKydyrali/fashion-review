@@ -1,0 +1,1 @@
+"""Fashion backend application package."""

@@ -1,0 +1,26 @@
+{
+  "expo": {
+    "name": "AVISHU",
+    "slug": "avishu-mobile",
+    "scheme": "avishu",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "experiments": {
+      "typedRoutes": true
+    },
+    "plugins": [
+      "expo-router",
+      "expo-secure-store",
+      "expo-video"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.avishu.mobile"
+    },
+    "extra": {
+      "apiUrl": "https://fashion-backend-zy6w.onrender.com"
+    }
+  }
+}

@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "sku": "TOP-001",
+    "name": "Шелковый топ",
+    "display_category": "База",
+    "normalized_category": "top",
+    "season_tags": ["Лето", "Весна"],
+    "color": "white",
+    "reference_image_url": "https://example.test/assets/products/top-001.png",
+    "is_available": true,
+    "is_active": true,
+    "translations": [
+      {
+        "language_code": "ru",
+        "name": "Шелковый топ",
+        "description": "Легкий шелковый топ с мягким блеском.",
+        "display_category": "База"
+      },
+      {
+        "language_code": "kk",
+        "name": "Жібек топ",
+        "description": "Жеңіл жібек топ жұмсақ жылтырмен.",
+        "display_category": "Негізгі киім"
+      },
+      {
+        "language_code": "en",
+        "name": "Silk Shell Top",
+        "description": "Lightweight silk top with a soft sheen.",
+        "display_category": "Basics"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "sku": "BOT-001",
+    "name": "Брюки с защипами",
+    "display_category": "Брюки",
+    "normalized_category": "bottom",
+    "season_tags": ["Лето", "Весна"],
+    "color": "beige",
+    "reference_image_url": "https://example.test/assets/products/bot-001.png",
+    "is_available": true,
+    "is_active": true,
+    "translations": [
+      {
+        "language_code": "ru",
+        "name": "Брюки с защипами",
+        "description": "Прямые брюки для спокойных повседневных образов.",
+        "display_category": "Брюки"
+      },
+      {
+        "language_code": "kk",
+        "name": "Тігінді шалбар",
+        "description": "Күнделікті образдарға арналған түзу пішімді шалбар.",
+        "display_category": "Шалбар"
+      },
+      {
+        "language_code": "en",
+        "name": "Tailored Trousers",
+        "description": "Straight-leg trousers for polished everyday looks.",
+        "display_category": "Trousers"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "sku": "OUT-001",
+    "name": "Минималистичный тренч",
+    "display_category": "Верхняя одежда",
+    "normalized_category": "outerwear",
+    "season_tags": ["Весна", "Лето"],
+    "color": "gray",
+    "reference_image_url": "https://example.test/assets/products/out-001.png",
+    "is_available": true,
+    "is_active": true,
+    "translations": [
+      {
+        "language_code": "ru",
+        "name": "Минималистичный тренч",
+        "description": "Легкий плащ для многослойных образов межсезонья.",
+        "display_category": "Верхняя одежда"
+      },
+      {
+        "language_code": "kk",
+        "name": "Минимал тренч",
+        "description": "Маусымаралық қабаттауға арналған жеңіл плащ.",
+        "display_category": "Сырт киім"
+      },
+      {
+        "language_code": "en",
+        "name": "Minimal Trench",
+        "description": "Lightweight trench for transitional layered outfits.",
+        "display_category": "Outerwear"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "sku": "TOP-002",
+    "name": "Мягкий кардиган",
+    "display_category": "Кардиганы и кофты",
+    "normalized_category": "top",
+    "season_tags": ["Весна", "Зима"],
+    "color": "black",
+    "reference_image_url": "https://example.test/assets/products/top-002.png",
+    "is_available": true,
+    "is_active": true,
+    "translations": [
+      {
+        "language_code": "ru",
+        "name": "Мягкий кардиган",
+        "description": "Уютный кардиган для прохладных утренних слоев.",
+        "display_category": "Кардиганы и кофты"
+      },
+      {
+        "language_code": "kk",
+        "name": "Жұмсақ кардиган",
+        "description": "Салқын таңдарға арналған жайлы кардиган.",
+        "display_category": "Кардигандар мен жемпірлер"
+      },
+      {
+        "language_code": "en",
+        "name": "Soft Cardigan",
+        "description": "Cozy cardigan for cool layered mornings.",
+        "display_category": "Cardigans"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "sku": "BOT-002",
+    "name": "Прямая юбка",
+    "display_category": "Юбки",
+    "normalized_category": "bottom",
+    "season_tags": ["Лето"],
+    "color": "black",
+    "reference_image_url": "https://example.test/assets/products/bot-002.png",
+    "is_available": true,
+    "is_active": true,
+    "translations": [
+      {
+        "language_code": "ru",
+        "name": "Прямая юбка",
+        "description": "Лаконичная юбка для строгих городских комплектов.",
+        "display_category": "Юбки"
+      },
+      {
+        "language_code": "kk",
+        "name": "Тік белдемше",
+        "description": "Қалалық жинақы образдарға арналған белдемше.",
+        "display_category": "Юбкалар"
+      },
+      {
+        "language_code": "en",
+        "name": "Straight Skirt",
+        "description": "Clean-lined skirt for structured city dressing.",
+        "display_category": "Skirts"
+      }
+    ]
+  }
+]
